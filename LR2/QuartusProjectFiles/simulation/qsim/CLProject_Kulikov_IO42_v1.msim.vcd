@@ -1,0 +1,253 @@
+$comment
+	File created using the following command:
+		vcd file CLProject_Kulikov_IO42_v1.msim.vcd -direction
+$end
+$date
+	Tue Feb 24 16:58:49 2026
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module Lab2_SM_v3_vlg_vec_tst $end
+$var reg 1 ! in_x $end
+$var reg 15 " in_y [14:0] $end
+$var reg 15 # in_z [14:0] $end
+$var wire 1 $ out_p $end
+$var wire 1 % out_s [14] $end
+$var wire 1 & out_s [13] $end
+$var wire 1 ' out_s [12] $end
+$var wire 1 ( out_s [11] $end
+$var wire 1 ) out_s [10] $end
+$var wire 1 * out_s [9] $end
+$var wire 1 + out_s [8] $end
+$var wire 1 , out_s [7] $end
+$var wire 1 - out_s [6] $end
+$var wire 1 . out_s [5] $end
+$var wire 1 / out_s [4] $end
+$var wire 1 0 out_s [3] $end
+$var wire 1 1 out_s [2] $end
+$var wire 1 2 out_s [1] $end
+$var wire 1 3 out_s [0] $end
+$var wire 1 4 sampler $end
+$scope module i1 $end
+$var wire 1 5 gnd $end
+$var wire 1 6 vcc $end
+$var wire 1 7 unknown $end
+$var tri1 1 8 devclrn $end
+$var tri1 1 9 devpor $end
+$var tri1 1 : devoe $end
+$var wire 1 ; out_p~output_o $end
+$var wire 1 < out_s[14]~output_o $end
+$var wire 1 = out_s[13]~output_o $end
+$var wire 1 > out_s[12]~output_o $end
+$var wire 1 ? out_s[11]~output_o $end
+$var wire 1 @ out_s[10]~output_o $end
+$var wire 1 A out_s[9]~output_o $end
+$var wire 1 B out_s[8]~output_o $end
+$var wire 1 C out_s[7]~output_o $end
+$var wire 1 D out_s[6]~output_o $end
+$var wire 1 E out_s[5]~output_o $end
+$var wire 1 F out_s[4]~output_o $end
+$var wire 1 G out_s[3]~output_o $end
+$var wire 1 H out_s[2]~output_o $end
+$var wire 1 I out_s[1]~output_o $end
+$var wire 1 J out_s[0]~output_o $end
+$var wire 1 K in_z[14]~input_o $end
+$var wire 1 L in_y[14]~input_o $end
+$var wire 1 M in_z[13]~input_o $end
+$var wire 1 N in_y[13]~input_o $end
+$var wire 1 O in_z[12]~input_o $end
+$var wire 1 P in_y[12]~input_o $end
+$var wire 1 Q in_z[11]~input_o $end
+$var wire 1 R in_y[11]~input_o $end
+$var wire 1 S in_z[10]~input_o $end
+$var wire 1 T in_y[10]~input_o $end
+$var wire 1 U in_z[9]~input_o $end
+$var wire 1 V in_y[9]~input_o $end
+$var wire 1 W in_z[8]~input_o $end
+$var wire 1 X in_y[8]~input_o $end
+$var wire 1 Y in_y[7]~input_o $end
+$var wire 1 Z in_z[7]~input_o $end
+$var wire 1 [ in_y[6]~input_o $end
+$var wire 1 \ in_z[6]~input_o $end
+$var wire 1 ] in_z[5]~input_o $end
+$var wire 1 ^ in_y[5]~input_o $end
+$var wire 1 _ in_y[4]~input_o $end
+$var wire 1 ` in_z[4]~input_o $end
+$var wire 1 a in_z[3]~input_o $end
+$var wire 1 b in_y[3]~input_o $end
+$var wire 1 c in_y[2]~input_o $end
+$var wire 1 d in_z[2]~input_o $end
+$var wire 1 e in_y[1]~input_o $end
+$var wire 1 f in_z[1]~input_o $end
+$var wire 1 g in_z[0]~input_o $end
+$var wire 1 h in_y[0]~input_o $end
+$var wire 1 i in_x~input_o $end
+$var wire 1 j inst|LPM_ADD_SUB_component|auto_generated|result_int[0]~1_cout $end
+$var wire 1 k inst|LPM_ADD_SUB_component|auto_generated|result_int[1]~3 $end
+$var wire 1 l inst|LPM_ADD_SUB_component|auto_generated|result_int[2]~5 $end
+$var wire 1 m inst|LPM_ADD_SUB_component|auto_generated|result_int[3]~7 $end
+$var wire 1 n inst|LPM_ADD_SUB_component|auto_generated|result_int[4]~9 $end
+$var wire 1 o inst|LPM_ADD_SUB_component|auto_generated|result_int[5]~11 $end
+$var wire 1 p inst|LPM_ADD_SUB_component|auto_generated|result_int[6]~13 $end
+$var wire 1 q inst|LPM_ADD_SUB_component|auto_generated|result_int[7]~15 $end
+$var wire 1 r inst|LPM_ADD_SUB_component|auto_generated|result_int[8]~17 $end
+$var wire 1 s inst|LPM_ADD_SUB_component|auto_generated|result_int[9]~19 $end
+$var wire 1 t inst|LPM_ADD_SUB_component|auto_generated|result_int[10]~21 $end
+$var wire 1 u inst|LPM_ADD_SUB_component|auto_generated|result_int[11]~23 $end
+$var wire 1 v inst|LPM_ADD_SUB_component|auto_generated|result_int[12]~25 $end
+$var wire 1 w inst|LPM_ADD_SUB_component|auto_generated|result_int[13]~27 $end
+$var wire 1 x inst|LPM_ADD_SUB_component|auto_generated|result_int[14]~29 $end
+$var wire 1 y inst|LPM_ADD_SUB_component|auto_generated|result_int[15]~31 $end
+$var wire 1 z inst|LPM_ADD_SUB_component|auto_generated|result_int[16]~32_combout $end
+$var wire 1 { inst|LPM_ADD_SUB_component|auto_generated|result_int[15]~30_combout $end
+$var wire 1 | inst|LPM_ADD_SUB_component|auto_generated|result_int[14]~28_combout $end
+$var wire 1 } inst|LPM_ADD_SUB_component|auto_generated|result_int[13]~26_combout $end
+$var wire 1 ~ inst|LPM_ADD_SUB_component|auto_generated|result_int[12]~24_combout $end
+$var wire 1 !! inst|LPM_ADD_SUB_component|auto_generated|result_int[11]~22_combout $end
+$var wire 1 "! inst|LPM_ADD_SUB_component|auto_generated|result_int[10]~20_combout $end
+$var wire 1 #! inst|LPM_ADD_SUB_component|auto_generated|result_int[9]~18_combout $end
+$var wire 1 $! inst|LPM_ADD_SUB_component|auto_generated|result_int[8]~16_combout $end
+$var wire 1 %! inst|LPM_ADD_SUB_component|auto_generated|result_int[7]~14_combout $end
+$var wire 1 &! inst|LPM_ADD_SUB_component|auto_generated|result_int[6]~12_combout $end
+$var wire 1 '! inst|LPM_ADD_SUB_component|auto_generated|result_int[5]~10_combout $end
+$var wire 1 (! inst|LPM_ADD_SUB_component|auto_generated|result_int[4]~8_combout $end
+$var wire 1 )! inst|LPM_ADD_SUB_component|auto_generated|result_int[3]~6_combout $end
+$var wire 1 *! inst|LPM_ADD_SUB_component|auto_generated|result_int[2]~4_combout $end
+$var wire 1 +! inst|LPM_ADD_SUB_component|auto_generated|result_int[1]~2_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+b100000000000000 "
+b101000000000010 #
+1$
+03
+12
+01
+00
+0/
+0.
+0-
+0,
+0+
+0*
+0)
+0(
+1'
+0&
+0%
+x4
+05
+16
+x7
+18
+19
+1:
+1;
+0<
+0=
+1>
+0?
+0@
+0A
+0B
+0C
+0D
+0E
+0F
+0G
+0H
+1I
+0J
+1K
+1L
+0M
+0N
+1O
+0P
+0Q
+0R
+0S
+0T
+0U
+0V
+0W
+0X
+0Y
+0Z
+0[
+0\
+0]
+0^
+0_
+0`
+0a
+0b
+0c
+0d
+0e
+1f
+0g
+0h
+0i
+0j
+1k
+0l
+1m
+0n
+1o
+0p
+1q
+0r
+1s
+0t
+1u
+0v
+1w
+0x
+0y
+1z
+0{
+0|
+1}
+0~
+0!!
+0"!
+0#!
+0$!
+0%!
+0&!
+0'!
+0(!
+0)!
+1*!
+0+!
+$end
+#40000
+b0 "
+b1 "
+b100000000000010 #
+0O
+1h
+0L
+04
+1y
+0}
+1+!
+1{
+0>
+1J
+1<
+0'
+13
+1%
+0z
+0;
+0$
+#80000

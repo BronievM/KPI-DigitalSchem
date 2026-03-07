@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Documents\Education\KPI\4Term\CompSchem\Rep\LR1\simulation\qsim
+vCL_Lab1
+Z1 !s100 1^Smh05;aoN=ZoiE?1`g@1
+Z2 I[nVzfdK1?O:1N?2CNlhG;2
+Z3 V>AUO4G4F@WKUkU3I4[z0X2
+Z4 dD:\Documents\Education\KPI\4Term\CompSchem\Rep\LR1\simulation\qsim
+Z5 w1771522866
+Z6 8CL_Lab1.vo
+Z7 FCL_Lab1.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|CL_Lab1.vo|
+Z10 o-work work -O0
+Z11 n@c@l_@lab1
+!i10b 1
+!s85 0
+Z12 !s108 1771522867.599000
+Z13 !s107 CL_Lab1.vo|
+!s101 -O0
+vCL_Lab1_vlg_check_tst
+!i10b 1
+Z14 !s100 MYR=cOk4I>=`5KO8CNhdn1
+Z15 IEiMNNHb^2bVZDPQ?NfB>]1
+Z16 V67P]zh24Eie6DQW9J16`h1
+R4
+Z17 w1771522865
+Z18 8CL_Project_v2.vwf.vt
+Z19 FCL_Project_v2.vwf.vt
+L0 67
+R8
+r1
+!s85 0
+31
+Z20 !s108 1771522867.670000
+Z21 !s107 CL_Project_v2.vwf.vt|
+Z22 !s90 -work|work|CL_Project_v2.vwf.vt|
+!s101 -O0
+R10
+Z23 n@c@l_@lab1_vlg_check_tst
+vCL_Lab1_vlg_sample_tst
+!i10b 1
+Z24 !s100 don@0g?d6N^Ac@HdS>_oB1
+Z25 IHd:>gPTaBl5ZYj>kiGI_`0
+Z26 V8JS0ZzJzDjYO]KXK93^Qg0
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@c@l_@lab1_vlg_sample_tst
+vCL_Lab1_vlg_vec_tst
+!i10b 1
+Z28 !s100 Ufn@cJmI>;j7aXbiH7]]z3
+Z29 ICTkhMVlHTS8jS8On9XNg:2
+Z30 VLeHa@K@I?EI5`RFOf47l02
+R4
+R17
+R18
+R19
+Z31 L0 189
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@c@l_@lab1_vlg_vec_tst

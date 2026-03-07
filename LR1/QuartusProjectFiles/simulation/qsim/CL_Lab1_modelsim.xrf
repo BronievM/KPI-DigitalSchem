@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, D:/Documents/Education/KPI/4Term/CompSchem/Rep/LR1/CL_Lab1.bdf
+source_file = 1, D:/Documents/Education/KPI/4Term/CompSchem/Rep/LR1/LC1.bdf
+source_file = 1, D:/Documents/Education/KPI/4Term/CompSchem/Rep/LR1/CL_Project_v1.vwf
+source_file = 1, D:/Documents/Education/KPI/4Term/CompSchem/Rep/LR1/CL_Project_v2.vwf
+source_file = 1, D:/Documents/Education/KPI/4Term/CompSchem/Rep/LR1/db/CL_Lab1.cbx.xml
+design_name = CL_Lab1
+instance = comp, \out_y~output , out_y~output, CL_Lab1, 1
+instance = comp, \out_y_2~output , out_y_2~output, CL_Lab1, 1
+instance = comp, \in_x1~input , in_x1~input, CL_Lab1, 1
+instance = comp, \in_x2~input , in_x2~input, CL_Lab1, 1
+instance = comp, \in_x3~input , in_x3~input, CL_Lab1, 1
+instance = comp, \inst|inst12~0 , inst|inst12~0, CL_Lab1, 1
+instance = comp, \in_x2_2~input , in_x2_2~input, CL_Lab1, 1
+instance = comp, \in_x3_2~input , in_x3_2~input, CL_Lab1, 1
+instance = comp, \in_x1_2~input , in_x1_2~input, CL_Lab1, 1
+instance = comp, \inst5~0 , inst5~0, CL_Lab1, 1
